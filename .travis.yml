@@ -1,5 +1,5 @@
 language: python
 sudo: required
 install:
-  - pip install PIL
+  - pip install numpy
 script: python main.py
