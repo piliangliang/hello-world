@@ -1,3 +1,4 @@
 language: python
 sudo: required
+before_install:sudo pip install PIL
 script: python main.py
