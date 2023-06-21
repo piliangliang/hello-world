@@ -1,2 +1,2 @@
-# hello-world
-learning of github
+# My View of GLIBC
+GLIBC view
